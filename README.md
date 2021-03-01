@@ -16,6 +16,10 @@
 
 #### Hostman https://hostman.com/
 
+Azure  (currently free in preview )
+
+
+
 
 
 
