@@ -16,7 +16,7 @@
 
 #### Hostman https://hostman.com/
 
-Azure  (currently free in preview )
+#### Azure  (currently free in preview ) https://azure.microsoft.com/en-us/services/app-service/static/
 
 
 
