@@ -1,18 +1,18 @@
 # Free Static Site Hosting
 
-### Vercel https://vercel.com/
+#### Vercel https://vercel.com/
 
-### Surge http://surge.sh
+#### Surge http://surge.sh
 
-### Netlify  http://netlify.com
+#### Netlify  http://netlify.com
 
-### Render http://render.com
+#### Render http://render.com
 
-### Firebase https://firebaseopensource.com/projects/firebase/firebase-tools/
+#### Firebase https://firebaseopensource.com/projects/firebase/firebase-tools/
 
-### Cloudflare https://pages.cloudflare.com/
+#### Cloudflare https://pages.cloudflare.com/
 
-### GitLab pages https://docs.gitlab.com/ee/user/project/pages/
+#### GitLab pages https://docs.gitlab.com/ee/user/project/pages/
 
 #### Hostman https://hostman.com/
 
