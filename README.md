@@ -4,11 +4,13 @@
 
 #### Vercel https://vercel.com/
 
-#### Surge http://surge.sh
+#### Surge https://surge.sh
 
-#### Netlify  http://netlify.com
+#### Netlify  https://netlify.com
 
-#### Render http://render.com
+#### Render https://render.com
+
+#### StormKit https://stormkit.com
 
 #### Firebase https://firebaseopensource.com/projects/firebase/firebase-tools/
 
