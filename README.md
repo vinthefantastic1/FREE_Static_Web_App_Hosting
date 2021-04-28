@@ -18,6 +18,8 @@
 
 #### Hostman https://hostman.com/
 
+#### Qovery https://www.qovery.com/ The simplest way to deploy your full-stack apps
+
 
 #### Cloudflare https://pages.cloudflare.com/  (This is in beta and you must request access)
 
@@ -30,4 +32,7 @@
 
 #### https://repl.it
 
+## Free DB
 
+  https://freedb.tech/
+  Free mySQL db online
