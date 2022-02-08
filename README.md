@@ -10,7 +10,7 @@
 
 #### Render https://render.com
 
-#### StormKit https://stormkit.com
+#### StormKit https://stormkit.io
 
 #### Firebase https://firebaseopensource.com/projects/firebase/firebase-tools/
 
